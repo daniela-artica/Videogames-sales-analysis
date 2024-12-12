@@ -1,4 +1,4 @@
-# Videgame sales analysis
+# Videogames sales analysis
 ## Project background
 
 The main goal of the project is to provide a historical videogames sales analysis in order to uncover critical insights that will allow a worldwide videogame store identify promising projects and improve advertising campaign planning.
