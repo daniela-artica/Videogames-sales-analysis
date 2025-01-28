@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following key areas:
 **Overview of findings**
 - Sales peaked in specific years due to major platform releases and hit games. The analysis showed that the introduction of new technologies in consoles significantly impacts their profitability. As newer consoles are launched, older ones experience a decline in revenue while the profitability of the newer generation rises.
 - The five most profitable platforms- PS2, Xbox 360, PS3, Wii, and DS—each generated over $800 million in sales.
-- Sales distribution varies heavily by region
+- Sony platforms like PS2 and PS3 perform well across all regions.
 - Certain genres like action, sports and shooter games consistently dominated sales across all regions.
 
 ## Key insights
